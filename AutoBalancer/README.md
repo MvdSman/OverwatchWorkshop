@@ -1,6 +1,6 @@
 # AutoBalancer: Real-time damage modifier
 
-Last updated: 14-05-2019
+Last updated: 17-05-2019
 
 **Workshop code: 67CK9**
 
@@ -77,3 +77,13 @@ The following table holds all variables used, starting with Global variables and
 | X        | Player  | Element        | -                    | HUD ID Damage Output                                                                      |
 | Y        | Player  | Element        | -                    | HUD ID Hunters                                                                            |
 | Z        | Player  | Element        | -                    | Icon ID Target                                                                            |
+
+## Known bugs:
+
+* Sombra’s icon switch does not work perfectly (messages mess up).
+* Killing your target does not give a bonus, but merely prevents the penalty (value should be increased).
+
+## Updates:
+
+1. Sombra's skull is invisibile when Sombra cloaks.
+2. Added in-game changing of global var A for player slot 0 (if global var C == TRUE).
