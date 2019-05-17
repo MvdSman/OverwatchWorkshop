@@ -2,7 +2,7 @@
 
 Last updated: 17-05-2019
 
-**Workshop code: 67CK9**
+**Workshop code: J9W2Z**
 
 ---
 
@@ -37,3 +37,13 @@ Last updated: 17-05-2019
 The following table holds all variables used, starting with Global variables and then the Player variables.
 
 ...
+
+## Known bugs
+
+* ...
+* ...
+
+## Updates
+
+1. Added movement restrictions
+2. ...
