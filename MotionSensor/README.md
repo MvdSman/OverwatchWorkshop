@@ -40,7 +40,7 @@ The following table holds all variables used, starting with Global variables and
 
 ## Known bugs
 
-* ...
+* Because of effect limit, the continuous effects have to be reworked to on-demand effects per player.
 * ...
 
 ## Updates
